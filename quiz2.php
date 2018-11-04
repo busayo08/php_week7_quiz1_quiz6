@@ -7,5 +7,5 @@ $substract = $one - $two;
 $divide = $three/$two;
 echo "The value of"." ".$one." multipied by "." ".$three." is"." ". $multiply."<br>";
 echo "if "." ".$one." is substracted from "." ".$two." we have"." ". $substract."<br>";
-echo "division: "." ".$one." divided by "." ".$two." equals"." ". $divide
+echo "division: "." ".$three." divided by "." ".$two." equals"." ". $divide
 ?>
